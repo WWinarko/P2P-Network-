@@ -1,5 +1,6 @@
-# COMP331 Assignment - P2P Network using Distributed Hash Table
+# COMP3331 Assignment - P2P Network using Distributed Hash Table
 
+This is UNSW COMP3331 (Computer Networks&Applications) Assignment - Building P2P network using Distributed Hash Table in Pyhton. 
 Using Python ver - 3.7.3
 
 ## Quick Guide
